@@ -2,7 +2,6 @@ package org.example;
 
 import java.util.ArrayList;
 import java.util.List;
-
 public class Task6 {
     public static void main(String[] args){
         int n = 100;
